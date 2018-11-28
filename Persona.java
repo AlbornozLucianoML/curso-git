@@ -3,4 +3,5 @@ public class Persona {
         System.out.println("Soy una persona");
     }
     private String nombre;
+    private String edad;
 }
